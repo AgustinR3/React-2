@@ -1,0 +1,11 @@
+.verde{
+    color: green;
+}
+.rojo{
+    color:red;
+}
+
+label{
+    display: inline-block;
+    width: 70px;
+}
